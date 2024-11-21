@@ -1,4 +1,4 @@
-package com.appeando.controldegastosdatabase
+package com.appeando.controldegastosdatabase.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
